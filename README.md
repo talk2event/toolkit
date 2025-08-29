@@ -21,29 +21,29 @@ Event cameras offer microsecond-level latency and robustness to motion blur, mak
 - [License](#license)
 
 
-# Benchmark Overview
+## Benchmark Overview
 
 | ![talk2event](./docs/figures/pipeline.png) |
 |:-:|
 
 
-# :gear: Installation
+## :gear: Installation
 
 For details related to installation and environment setups, kindly refer to [INSTALL.md](./docs/INSTALL.md).
 
 
 
-# :hotsprings: Data Preparation
+## :hotsprings: Data Preparation
 
 Kindly refer to [DATA_PREPAER.md](./docs/DATA_PREPAER.md) for the details to prepare the datasets.
 
 
 
-# :rocket: Getting Started
+## :rocket: Getting Started
 
 To learn more usage about this codebase, kindly refer to [GET_STARTED.md](./docs/GET_STARTED.md).
 
 
 
-# License
+## License
 This work is under the [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0), while some specific implementations in this codebase might be under other licenses. Kindly refer to the original repositories for a more careful check, if you are using our code for commercial matters.
